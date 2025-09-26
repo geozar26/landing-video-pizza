@@ -46,7 +46,7 @@ nav ul li a{
 }
 
 nav ul li a:hover{
-     color:purple;
+     color:#d500f9;
     
 }
 
@@ -89,4 +89,5 @@ nav ul li a:hover{
         width: 100%;
         height:auto;
      }
+
 }
