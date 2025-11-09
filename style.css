@@ -64,6 +64,7 @@ nav ul li a:hover{
       text-decoration: none;
       display:inline-block;
       color:#fff;
+      border:1px solid #fff;
       font-size:24px;
       padding:12px 34px;
       font-size:25px;
@@ -73,7 +74,7 @@ nav ul li a:hover{
 
    .content a:hover{
       background-color: purple;
-      border: 1px #fff;
+      border: 1px solid transparent;
    }
 
 .back-video{
@@ -90,4 +91,5 @@ nav ul li a:hover{
      }
 
 }
+
 
